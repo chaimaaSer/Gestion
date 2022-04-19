@@ -1,0 +1,168 @@
+src/TESTg/TESTg2.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/TESTg/TESTg2.java:1:	PackageCase:	PackageCase: Package name contains upper case characters
+src/TESTg/TESTg2.java:8:	UnnecessaryImport:	UnnecessaryImport: Unused import 'gstion.Moto'
+src/TESTg/TESTg2.java:8:	UnnecessaryImport:	UnnecessaryImport: Unused import 'gstion.Moto'
+src/TESTg/TESTg2.java:8:	UnusedImports:	UnusedImports: Unused import 'gstion.Moto'
+src/TESTg/TESTg2.java:8:	UnusedImports:	UnusedImports: Unused import 'gstion.Moto'
+src/TESTg/TESTg2.java:10:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/TESTg/TESTg2.java:10:	AtLeastOneConstructor:	AtLeastOneConstructor: Each class should declare at least one constructor
+src/TESTg/TESTg2.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/TESTg/TESTg2.java:10:	CommentRequired:	CommentRequired: Class comments are required
+src/TESTg/TESTg2.java:10:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/TESTg/TESTg2.java:10:	TooManyMethods:	TooManyMethods: This class has too many methods, consider refactoring it.
+src/TESTg/TESTg2.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testCamion method if you want a default access modifier
+src/TESTg/TESTg2.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testCamion method if you want a default access modifier
+src/TESTg/TESTg2.java:13:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/TESTg/TESTg2.java:13:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/TESTg/TESTg2.java:13:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/TESTg/TESTg2.java:13:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/TESTg/TESTg2.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testIsRemorque method if you want a default access modifier
+src/TESTg/TESTg2.java:17:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testIsRemorque method if you want a default access modifier
+src/TESTg/TESTg2.java:17:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/TESTg/TESTg2.java:17:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/TESTg/TESTg2.java:17:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/TESTg/TESTg2.java:17:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/TESTg/TESTg2.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testSetRemorque method if you want a default access modifier
+src/TESTg/TESTg2.java:22:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testSetRemorque method if you want a default access modifier
+src/TESTg/TESTg2.java:23:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:23:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Remorque' could be declared final
+src/TESTg/TESTg2.java:24:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Remorque' could be declared final
+src/TESTg/TESTg2.java:24:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Remorque' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:24:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Remorque' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:24:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Remorque' starts with uppercase character.
+src/TESTg/TESTg2.java:24:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Remorque' starts with uppercase character.
+src/TESTg/TESTg2.java:25:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Romain.S" appears 11 times in this file; the first occurrence is on line 25
+src/TESTg/TESTg2.java:25:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Romain.S" appears 11 times in this file; the first occurrence is on line 25
+src/TESTg/TESTg2.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:25:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:25:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:28:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:28:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:32:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testToString method if you want a default access modifier
+src/TESTg/TESTg2.java:32:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testToString method if you want a default access modifier
+src/TESTg/TESTg2.java:33:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "123-AZ-456" appears 10 times in this file; the first occurrence is on line 33
+src/TESTg/TESTg2.java:33:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "123-AZ-456" appears 10 times in this file; the first occurrence is on line 33
+src/TESTg/TESTg2.java:33:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Audi12" appears 10 times in this file; the first occurrence is on line 33
+src/TESTg/TESTg2.java:33:	AvoidDuplicateLiterals:	AvoidDuplicateLiterals: The String literal "Audi12" appears 10 times in this file; the first occurrence is on line 33
+src/TESTg/TESTg2.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:33:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:33:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:33:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'affichage' could be declared final
+src/TESTg/TESTg2.java:34:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'affichage' could be declared final
+src/TESTg/TESTg2.java:35:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:35:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:39:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testVehicule method if you want a default access modifier
+src/TESTg/TESTg2.java:39:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testVehicule method if you want a default access modifier
+src/TESTg/TESTg2.java:39:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/TESTg/TESTg2.java:39:	JUnitTestsShouldIncludeAssert:	JUnitTestsShouldIncludeAssert: JUnit tests should include assert() or fail()
+src/TESTg/TESTg2.java:39:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/TESTg/TESTg2.java:39:	UncommentedEmptyMethodBody:	UncommentedEmptyMethodBody: Document empty method body
+src/TESTg/TESTg2.java:44:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetMarque method if you want a default access modifier
+src/TESTg/TESTg2.java:44:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetMarque method if you want a default access modifier
+src/TESTg/TESTg2.java:45:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:45:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:46:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:46:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:46:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'MARQUE' could be declared final
+src/TESTg/TESTg2.java:47:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'MARQUE' could be declared final
+src/TESTg/TESTg2.java:47:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'MARQUE' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:47:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'MARQUE' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:47:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'MARQUE' starts with uppercase character.
+src/TESTg/TESTg2.java:47:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'MARQUE' starts with uppercase character.
+src/TESTg/TESTg2.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'marquee' could be declared final
+src/TESTg/TESTg2.java:49:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'marquee' could be declared final
+src/TESTg/TESTg2.java:50:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:50:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:54:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testSetMarque method if you want a default access modifier
+src/TESTg/TESTg2.java:54:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testSetMarque method if you want a default access modifier
+src/TESTg/TESTg2.java:55:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:55:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'MARQUE' could be declared final
+src/TESTg/TESTg2.java:56:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'MARQUE' could be declared final
+src/TESTg/TESTg2.java:56:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'MARQUE' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:56:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'MARQUE' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:56:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'MARQUE' starts with uppercase character.
+src/TESTg/TESTg2.java:56:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'MARQUE' starts with uppercase character.
+src/TESTg/TESTg2.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:57:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:57:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:60:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:60:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:64:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetModele method if you want a default access modifier
+src/TESTg/TESTg2.java:64:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetModele method if you want a default access modifier
+src/TESTg/TESTg2.java:65:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:65:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:66:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:66:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:66:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'MODELE' could be declared final
+src/TESTg/TESTg2.java:67:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'MODELE' could be declared final
+src/TESTg/TESTg2.java:67:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'MODELE' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:67:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'MODELE' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:67:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'MODELE' starts with uppercase character.
+src/TESTg/TESTg2.java:67:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'MODELE' starts with uppercase character.
+src/TESTg/TESTg2.java:69:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'modelee' could be declared final
+src/TESTg/TESTg2.java:69:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'modelee' could be declared final
+src/TESTg/TESTg2.java:70:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:70:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:74:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testSetModele method if you want a default access modifier
+src/TESTg/TESTg2.java:74:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testSetModele method if you want a default access modifier
+src/TESTg/TESTg2.java:75:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:75:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'MODELE' could be declared final
+src/TESTg/TESTg2.java:76:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'MODELE' could be declared final
+src/TESTg/TESTg2.java:76:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'MODELE' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:76:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'MODELE' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:76:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'MODELE' starts with uppercase character.
+src/TESTg/TESTg2.java:76:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'MODELE' starts with uppercase character.
+src/TESTg/TESTg2.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:77:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:77:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:77:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:80:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:80:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:84:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetImmatriculation method if you want a default access modifier
+src/TESTg/TESTg2.java:84:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testGetImmatriculation method if you want a default access modifier
+src/TESTg/TESTg2.java:85:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:85:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:86:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:86:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:86:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:86:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:87:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Immatriculation1' could be declared final
+src/TESTg/TESTg2.java:87:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Immatriculation1' could be declared final
+src/TESTg/TESTg2.java:87:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Immatriculation1' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:87:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Immatriculation1' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:87:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Immatriculation1' starts with uppercase character.
+src/TESTg/TESTg2.java:87:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Immatriculation1' starts with uppercase character.
+src/TESTg/TESTg2.java:89:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Immatriculation2' could be declared final
+src/TESTg/TESTg2.java:89:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Immatriculation2' could be declared final
+src/TESTg/TESTg2.java:89:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Immatriculation2' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:89:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Immatriculation2' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:89:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Immatriculation2' starts with uppercase character.
+src/TESTg/TESTg2.java:89:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Immatriculation2' starts with uppercase character.
+src/TESTg/TESTg2.java:90:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:90:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:94:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testSetImmatriculation method if you want a default access modifier
+src/TESTg/TESTg2.java:94:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the testSetImmatriculation method if you want a default access modifier
+src/TESTg/TESTg2.java:95:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:95:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/TESTg/TESTg2.java:96:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Immatriculation1' could be declared final
+src/TESTg/TESTg2.java:96:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'Immatriculation1' could be declared final
+src/TESTg/TESTg2.java:96:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Immatriculation1' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:96:	LocalVariableNamingConventions:	LocalVariableNamingConventions: The local variable name 'Immatriculation1' doesn't match '[a-z][a-zA-Z0-9]*'
+src/TESTg/TESTg2.java:96:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Immatriculation1' starts with uppercase character.
+src/TESTg/TESTg2.java:96:	VariableNamingConventions:	VariableNamingConventions: Variables should start with a lowercase character, 'Immatriculation1' starts with uppercase character.
+src/TESTg/TESTg2.java:97:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:97:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'c' could be declared final
+src/TESTg/TESTg2.java:97:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:97:	ShortVariable:	ShortVariable: Avoid variables with short names like c
+src/TESTg/TESTg2.java:100:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
+src/TESTg/TESTg2.java:100:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
